@@ -11,3 +11,10 @@ https://academy.tetrate.io/courses/envoy-fundamentals-zh
 https://academy.solo.io/learn    
 
 https://www.cncf.io/blog/2022/12/05/no-cost-istio-training-from-fundamentals-to-ambient-to-production-readiness/      
+
+
+
+---
+Reference:
+https://github.com/solo-io/mesh-week   
+
