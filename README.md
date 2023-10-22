@@ -15,6 +15,10 @@ https://www.cncf.io/blog/2022/12/05/no-cost-istio-training-from-fundamentals-to-
 
 
 ---
-Reference:
-https://github.com/solo-io/mesh-week   
+Reference:    
+https://github.com/solo-io/mesh-week      
+
+https://academy.tetrate.io/       
+
+
 
